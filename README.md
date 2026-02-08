@@ -33,7 +33,7 @@ This project demonstrates modular programming, database handling, and basic CRUD
 ## 📂 Project Structure
 library_management/
 
-│
+
 ├── database.py      # Database connection & table setup
 
 ├── library.py       # Library-related operations
