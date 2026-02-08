@@ -34,9 +34,13 @@ This project demonstrates modular programming, database handling, and basic CRUD
 library_management/
 │
 ├── database.py      # Database connection & table setup
+
 ├── library.py       # Library-related operations
+
 ├── student.py       # Student-related actions
+
 ├── main.py          # Main program (menu-driven)
+
 └── README.md
 ---
 
